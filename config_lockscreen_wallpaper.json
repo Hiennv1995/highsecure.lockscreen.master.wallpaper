@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "category_1": [
+        {
+          "wallpaper_name": "Abstrac",
+  	  "wallpaper_count": 20,
+          "wallpaper_path": "Abstrac/abstrac_"
+        }
+      ],
+      "category_2": [
+        {
+          "wallpaper_name": "Car",
+ 	  "wallpaper_count": 18,
+       	  "wallpaper_path": "Car/car_"
+        }
+      ],
+    "category_3": [
+        {
+          "wallpaper_name": "Gradient",
+ 	  "wallpaper_count": 20,
+       	  "wallpaper_path": "Gradient/gradient_"
+        }
+      ],
+    "category_4": [
+        {
+          "wallpaper_name": "Nature",
+ 	  "wallpaper_count": 18,
+       	  "wallpaper_path": "Nature/nature_"
+        }
+      ],
+    "category_5": [
+        {
+          "wallpaper_name": "Night",
+ 	  "wallpaper_count": 20,
+       	  "wallpaper_path": "Night/night_"
+        }
+      ],
+    "category_6": [
+        {
+          "wallpaper_name": "Scenery",
+ 	  "wallpaper_count": 20,
+       	  "wallpaper_path": "Scenery/scenery_"
+        }
+      ],
+    "category_7": [
+        {
+          "wallpaper_name": "Space",
+ 	  "wallpaper_count": 30,
+       	  "wallpaper_path": "Space/space_"
+        }
+      ]
+    }
+  ]
+}
